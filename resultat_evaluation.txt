@@ -1,0 +1,572 @@
+Query Index : 1
+Query Text : What articles exist which deal with TSS (Time Sharing System), an operating system for IBM computers?
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 43.53548741340637 sec
+f_score : 0.2857142857142857
+new recall : 40.0%
+new precision : 22.22222222222222%
+threshold : 0.05
+size : 9
+_______________________________________________________ 
+
+Query Index : 2
+Query Text : I am interested in articles written either by Prieve or Udo Pooch
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 8.55906629562378 sec
+f_score : 0.30769230769230765
+new recall : 66.66666666666666%
+new precision : 20.0%
+threshold : 0.05
+size : 10
+_______________________________________________________ 
+
+Query Index : 3
+Query Text : Intermediate languages used in construction of multi-targeted compilers; TCOLL
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 21.49262237548828 sec
+f_score : 0.05194805194805195
+new recall : 33.33333333333333%
+new precision : 2.8169014084507045%
+threshold : 0.05
+size : 71
+_______________________________________________________ 
+
+Query Index : 4
+Query Text : I'm interested in mechanisms for communicating between disjoint processes, possibly, but not exclusively, in a distributed environment.  I would rather see descriptions of complete mechanisms, with or without implementations, as opposed to theoretical work on the abstract problem.  Remote procedure calls and message-passing are examples of my interests.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 80.11007761955261 sec
+f_score : 0.32
+new recall : 33.33333333333333%
+new precision : 30.76923076923077%
+threshold : 0.05
+size : 13
+_______________________________________________________ 
+
+Query Index : 5
+Query Text : I'd like papers on design and implementation of editing interfaces, window-managers, command interpreters, etc.  The essential issues are human interface design, with views on improvements to user efficiency, effectiveness and satisfaction.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 29.247509717941284 sec
+f_score : 0.27586206896551724
+new recall : 50.0%
+new precision : 19.047619047619047%
+threshold : 0.05
+size : 21
+_______________________________________________________ 
+
+Query Index : 6
+Query Text : Interested in articles on robotics, motion planning particularly the geometric and combinatorial aspects.  We are not interested in the dynamics of arm motion.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 21.639995574951172 sec
+f_score : 0.36363636363636365
+new recall : 66.66666666666666%
+new precision : 25.0%
+threshold : 0.05
+size : 8
+_______________________________________________________ 
+
+Query Index : 7
+Query Text : I am interested in distributed algorithms - concurrent programs in which processes communicate and synchronize by using message passing. Areas of particular interest include fault-tolerance and techniques for understanding the correctness of these algorithms.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 109.4983880519867 sec
+f_score : 0.375
+new recall : 32.142857142857146%
+new precision : 45.0%
+threshold : 0.05
+size : 20
+_______________________________________________________ 
+
+Query Index : 8
+Query Text : Addressing schemes for resources in networks; resource addressing in network operating systems
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 35.21923756599426 sec
+f_score : 0.2222222222222222
+new recall : 33.33333333333333%
+new precision : 16.666666666666664%
+threshold : 0.05
+size : 6
+_______________________________________________________ 
+
+Query Index : 9
+Query Text : Security considerations in local networks, network operating systems, and distributed systems.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 42.38167452812195 sec
+f_score : 0.3636363636363636
+new recall : 22.22222222222222%
+new precision : 100.0%
+threshold : 0.05
+size : 2
+_______________________________________________________ 
+
+Query Index : 10
+Query Text : Parallel languages; languages for parallel computation
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 18.190126180648804 sec
+f_score : 0.2736842105263158
+new recall : 37.142857142857146%
+new precision : 21.666666666666668%
+threshold : 0.05
+size : 60
+_______________________________________________________ 
+
+Query Index : 11
+Query Text : SETL, Very High Level Languages
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 18.07688546180725 sec
+f_score : 0.4375
+new recall : 36.84210526315789%
+new precision : 53.84615384615385%
+threshold : 0.05
+size : 13
+_______________________________________________________ 
+
+Query Index : 12
+Query Text : portable operating systems
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 24.428672075271606 sec
+f_score : 0.2857142857142857
+new recall : 40.0%
+new precision : 22.22222222222222%
+threshold : 0.05
+size : 9
+_______________________________________________________ 
+
+Query Index : 13
+Query Text : code optimization for space efficiency
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 17.098557710647583 sec
+f_score : 0.2325581395348837
+new recall : 45.45454545454545%
+new precision : 15.625%
+threshold : 0.05
+size : 32
+_______________________________________________________ 
+
+Query Index : 14
+Query Text : find all discussions of optimal implementations of sort algorithms for database management applications
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 21.928717851638794 sec
+f_score : 0.14400000000000002
+new recall : 20.454545454545457%
+new precision : 11.11111111111111%
+threshold : 0.05
+size : 81
+_______________________________________________________ 
+
+Query Index : 15
+Query Text : Find all discussions of horizontal microcode optimization with special emphasis on optimization of loops and global optimization.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 20.170294284820557 sec
+f_score : 0.3157894736842105
+new recall : 30.0%
+new precision : 33.33333333333333%
+threshold : 0.05
+size : 9
+_______________________________________________________ 
+
+Query Index : 16
+Query Text : find all descriptions of file handling in operating systems based on multiple processes and message passing.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 37.955429553985596 sec
+f_score : 0.16
+new recall : 23.52941176470588%
+new precision : 12.121212121212121%
+threshold : 0.05
+size : 33
+_______________________________________________________ 
+
+Query Index : 17
+Query Text : Optimization of intermediate and machine code
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 27.753879070281982 sec
+f_score : 0.2
+new recall : 31.25%
+new precision : 14.705882352941178%
+threshold : 0.05
+size : 34
+_______________________________________________________ 
+
+Query Index : 18
+Query Text : Languages and compilers for parallel processors, especially highly horizontal microcoded machines; code compaction
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 27.870107889175415 sec
+f_score : 0.2105263157894737
+new recall : 18.181818181818183%
+new precision : 25.0%
+threshold : 0.05
+size : 8
+_______________________________________________________ 
+
+Query Index : 19
+Query Text : Parallel algorithms
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 9.651649236679077 sec
+f_score : 0.19354838709677416
+new recall : 27.27272727272727%
+new precision : 15.0%
+threshold : 0.05
+size : 20
+_______________________________________________________ 
+
+Query Index : 20
+Query Text : Graph theoretic algorithms applicable to sparse matrices
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 25.41798186302185 sec
+f_score : 0.30769230769230765
+new recall : 66.66666666666666%
+new precision : 20.0%
+threshold : 0.05
+size : 10
+_______________________________________________________ 
+
+Query Index : 21
+Query Text : computational complexity, intractability, class-complete reductions, algorithms and efficiency
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 33.389148473739624 sec
+f_score : 0.07692307692307691
+new recall : 9.090909090909092%
+new precision : 6.666666666666667%
+threshold : 0.05
+size : 15
+_______________________________________________________ 
+
+Query Index : 22
+Query Text : I am interested in hidden-line and hidden-surface algorithms for cylinders, toroids, spheres, and cones.  This is a rather specialized topic in computer graphics.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 57.33539652824402 sec
+f_score : 0.012836970474967907
+new recall : 29.411764705882355%
+new precision : 0.6561679790026247%
+threshold : 0
+size : 762
+_______________________________________________________ 
+
+Query Index : 23
+Query Text : Distributed computing structures and algorithms
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 23.882049798965454 sec
+f_score : 0.4
+new recall : 25.0%
+new precision : 100.0%
+threshold : 0.05
+size : 1
+_______________________________________________________ 
+
+Query Index : 24
+Query Text : Applied stochastic processes
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 13.83800745010376 sec
+f_score : 0.1111111111111111
+new recall : 15.384615384615385%
+new precision : 8.695652173913043%
+threshold : 0.05
+size : 23
+_______________________________________________________ 
+
+Query Index : 25
+Query Text : Performance evaluation and modelling of computer systems
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 40.58133864402771 sec
+f_score : 0.21333333333333335
+new recall : 31.372549019607842%
+new precision : 16.161616161616163%
+threshold : 0.05
+size : 99
+_______________________________________________________ 
+
+Query Index : 26
+Query Text : Concurrency control mechanisms in operating systems
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 31.16137409210205 sec
+f_score : 0.2051282051282051
+new recall : 26.666666666666668%
+new precision : 16.666666666666664%
+threshold : 0.05
+size : 48
+_______________________________________________________ 
+
+Query Index : 27
+Query Text : Memory management aspects of operating systems
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 33.64919304847717 sec
+f_score : 0.4313725490196078
+new recall : 37.93103448275862%
+new precision : 50.0%
+threshold : 0.05
+size : 22
+_______________________________________________________ 
+
+Query Index : 28
+Query Text : Any information on packet radio networks.  Of particular interest are algorithms for packet routing, and for dealing with changes in network topography.  I am not interested in the hardware used in the network.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 54.94914722442627 sec
+f_score : 0.6666666666666666
+new recall : 80.0%
+new precision : 57.14285714285714%
+threshold : 0.05
+size : 7
+_______________________________________________________ 
+
+Query Index : 29
+Query Text : Number-theoretic algorithms, especially involving prime number series, sieves, and Chinese Remainder theorem.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 58.8749942779541 sec
+f_score : 0.4666666666666667
+new recall : 36.84210526315789%
+new precision : 63.63636363636363%
+threshold : 0.05
+size : 11
+_______________________________________________________ 
+
+Query Index : 30
+Query Text : Articles on text formatting systems, including "what you see is what you get" systems.  Examples: t/nroff, scribe, bravo.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 34.86378574371338 sec
+f_score : 0.28571428571428575
+new recall : 25.0%
+new precision : 33.33333333333333%
+threshold : 0.05
+size : 3
+_______________________________________________________ 
+
+Query Index : 31
+Query Text : I'd like to find articles describing the use of singular value decomposition in digital image processing.  Applications include finding approximations to the original image and restoring images that are subject to noise. An article on the subject is H.C. Andrews and C.L. Patterson "Outer product expansions and their uses in digital image processing", American Mathematical Monthly, vol. 82.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 108.16717481613159 sec
+f_score : 0.4
+new recall : 50.0%
+new precision : 33.33333333333333%
+threshold : 0.05
+size : 3
+_______________________________________________________ 
+
+Query Index : 32
+Query Text : I'd like to find articles describing graph algorithms that are based on the eigenvalue decomposition (or singular value decomposition) of the ajacency matrix for the graph.  I'm especially interested in any heuristic algorithms for graph coloring and graph isomorphism using this method.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 94.7243287563324 sec
+f_score : 0.4
+new recall : 33.33333333333333%
+new precision : 50.0%
+threshold : 0.05
+size : 2
+_______________________________________________________ 
+
+Query Index : 33
+Query Text : Articles about the sensitivity of the eigenvalue decomposition of real matrices, in particular, zero-one matrices.  I'm especially interested in the separation of eigenspaces corresponding to distinct eigenvalues. Articles on the subject: C. Davis and W.M. Kahn, "The rotation of eigenvectors by a permutation:, SIAM J. Numerical Analysis, vol. 7, no. 1 (1970); G.W. Stewart, "Error bounds for approximate invariant subspaces of closed linear operators", SIAM J. Numerical Analysis., Vol. 8, no. 4 (1971).
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 229.06434178352356 sec
+f_score : 0.2222222222222222
+new recall : 100.0%
+new precision : 12.5%
+threshold : 0.05
+size : 8
+_______________________________________________________ 
+
+Query Index : 36
+Query Text : Fast algorithm for context-free language recognition or parsing
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 33.012993812561035 sec
+f_score : 0.1739130434782609
+new recall : 10.0%
+new precision : 66.66666666666666%
+threshold : 0.05
+size : 3
+_______________________________________________________ 
+
+Query Index : 37
+Query Text : Articles describing the relationship between data types and concurrency (e.g. what is the type of a process?  when is a synchronization attempt  between two processes "type correct"?  in a message-passing system is there any notion of the types of messages?--i.e. any way to check that the sender of the message and the receiver are both treating the bit stream as some particular type)
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 98.68479776382446 sec
+f_score : 0.26666666666666666
+new recall : 16.666666666666664%
+new precision : 66.66666666666666%
+threshold : 0.05
+size : 3
+_______________________________________________________ 
+
+Query Index : 38
+Query Text : What is the type of a module?	(I don't want the entire literature on Abstract Data Types here, but I'm not sure how to phrase this to avoid it. I'm interested in questions about how one can check that a module "matches" contexts in which it is used.)
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 107.33074879646301 sec
+f_score : 0.4615384615384615
+new recall : 37.5%
+new precision : 60.0%
+threshold : 0.05
+size : 10
+_______________________________________________________ 
+
+Query Index : 39
+Query Text : What does type compatibility mean in languages that allow programmer defined types?  (You might want to restrict this to "extensible" languages that allow definition of abstract data types or programmer-supplied definitions of operators like *, +.)
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 94.62107539176941 sec
+f_score : 0.3125
+new recall : 41.66666666666667%
+new precision : 25.0%
+threshold : 0.05
+size : 20
+_______________________________________________________ 
+
+Query Index : 40
+Query Text : List all articles dealing with data types in the following languages: Pascal, CLU, Alphard, Russell, Ada, ALGOL 68, EL1.  List any other languages that are referenced frequently in papers on the above languages (e.g. catch any languages with interesting type structures that I might have missed).
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 112.70043110847473 sec
+f_score : 0.5833333333333334
+new recall : 70.0%
+new precision : 50.0%
+threshold : 0.05
+size : 14
+_______________________________________________________ 
+
+Query Index : 42
+Query Text : Computer performance evaluation techniques using pattern recognition and clustering.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 55.66485643386841 sec
+f_score : 0.2857142857142857
+new recall : 28.57142857142857%
+new precision : 28.57142857142857%
+threshold : 0.05
+size : 21
+_______________________________________________________ 
+
+Query Index : 43
+Query Text : Analysis and perception of shape by humans and computers.  Shape descriptions, shape recognition by computer.  Two-dimensional shapes. Measures of circularity.  Shape matching.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 34.66183304786682 sec
+f_score : 0.06046511627906977
+new recall : 63.41463414634146%
+new precision : 3.1746031746031744%
+threshold : 0
+size : 819
+_______________________________________________________ 
+
+Query Index : 44
+Query Text : Texture analysis by computer.	Digitized texture analysis.  Texture synthesis. Perception of texture.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 35.82518672943115 sec
+f_score : 0.1
+new recall : 5.88235294117647%
+new precision : 33.33333333333333%
+threshold : 0.05
+size : 3
+_______________________________________________________ 
+
+Query Index : 45
+Query Text : The use of operations research models to optimize information system performance.  This includes fine tuning decisions such as secondary index selection, file reorganization, and distributed databases.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 88.53744792938232 sec
+f_score : 0.24000000000000002
+new recall : 23.076923076923077%
+new precision : 25.0%
+threshold : 0.05
+size : 24
+_______________________________________________________ 
+
+Query Index : 48
+Query Text : The use of computer science principles (e.g. data structures,  numerical methods) in generating optimization (e.g. linear programming) algorithms.  This includes issues of the Khachian (Russian, ellipsoidal) algorithm and complexity of such algorithms.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 93.06253433227539 sec
+f_score : 0.27906976744186046
+new recall : 50.0%
+new precision : 19.35483870967742%
+threshold : 0.05
+size : 31
+_______________________________________________________ 
+
+Query Index : 49
+Query Text : The role of information retrieval in knowledge based systems (i.e., expert systems).
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 49.5694465637207 sec
+f_score : 0.23529411764705882
+new recall : 50.0%
+new precision : 15.384615384615385%
+threshold : 0.05
+size : 26
+_______________________________________________________ 
+
+Query Index : 57
+Query Text : Abstracts of articles:     J. Backus, "Can programming be liberated from the Von Neumann style?                A functional style and its algebra of programs", CACM 21                (1978), 613-641.     R.A.De Millo, R.J. Lipton, A.J. Perlis, letter to ACM Forum, CACM 22 	       (1979), 629-630
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 166.32087349891663 sec
+f_score : 1.0
+new recall : 100.0%
+new precision : 100.0%
+threshold : 0.05
+size : 1
+_______________________________________________________ 
+
+Query Index : 58
+Query Text : Algorithms or statistical packages for ANOVA, regression using least squares or generalized linear models.  System design, capabilities, statistical formula are of interest.  Student's t test, Wilcoxon and sign tests, multivariate and univariate components can be included.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 99.93862652778625 sec
+f_score : 0.18181818181818182
+new recall : 13.333333333333334%
+new precision : 28.57142857142857%
+threshold : 0.05
+size : 14
+_______________________________________________________ 
+
+Query Index : 59
+Query Text : Dictionary construction and accessing methods for fast retrieval of words or lexical items or morphologically related information. Hashing or indexing methods are usually applied to English spelling or natural language problems.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 79.64976096153259 sec
+f_score : 0.23529411764705885
+new recall : 18.6046511627907%
+new precision : 32.0%
+threshold : 0.05
+size : 25
+_______________________________________________________ 
+
+Query Index : 60
+Query Text : Hardware and software relating to database management systems. Database packages, back end computers, special associative hardware with microcomputers attached to disk heads or things like RAP,  relational or network (CODASYL) or hierarchical models, systems like SYSTEM R, IMS, ADABAS, TOTAL, etc.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 100.39849925041199 sec
+f_score : 0.20512820512820512
+new recall : 14.814814814814813%
+new precision : 33.33333333333333%
+threshold : 0.05
+size : 12
+_______________________________________________________ 
+
+Query Index : 61
+Query Text : Information retrieval articles by Gerard Salton or others about clustering, bibliographic coupling, use of citations or co-citations, the vector space model, Boolean search methods using inverted files, feedback, etc.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 89.66758990287781 sec
+f_score : 0.30769230769230765
+new recall : 25.806451612903224%
+new precision : 38.095238095238095%
+threshold : 0.05
+size : 21
+_______________________________________________________ 
+
+Query Index : 62
+Query Text : Results relating parallel complexity theory (both for PRAM's and uniform circuits).
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 25.8400399684906 sec
+f_score : 0.13793103448275865
+new recall : 50.0%
+new precision : 8.0%
+threshold : 0.05
+size : 50
+_______________________________________________________ 
+
+Query Index : 63
+Query Text : Algorithms for parallel computation, and especially comparisons between parallel and sequential algorithms.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 17.627559900283813 sec
+f_score : 0.2727272727272727
+new recall : 25.0%
+new precision : 30.0%
+threshold : 0.05
+size : 10
+_______________________________________________________ 
+
+Query Index : 64
+Query Text : List all articles on EL1 and ECL (EL1 may be given as EL/1; I don't remember how they did it.
+Finding optimal parameters for this query, please wait ...
+Process finished. Time : 20.674148559570312 sec
+f_score : 0.125
+new recall : 100.0%
+new precision : 6.666666666666667%
+threshold : 0.05
+size : 15
+_______________________________________________________ 
+
